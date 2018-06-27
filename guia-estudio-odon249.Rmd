@@ -8,11 +8,27 @@ output:
     toc_float: true
     fig_caption: true
 ---
+
+```{r}
+install.packages("devtools")
+
+devtools::install_github("csgillespie/addinmanager")
+
+
+```
+
+```{r}
+install.packages("questionr")
+library(questionr)
+tidyshiny
+limoaddin
+```
+
 # Introducción a los métodos de investigación
 
 # Búsqueda de información
  - Identifique las partes cada parte numeradas de la siguiente referencia y describa que significa el 5 y 6
- ![Meta-analisis.](./images/referencias1.png)
+ ![Referencias.](./images/referencias1.png)
 
 # Diseño de estudios
  - Ud desea validar el Cariograma, un test que indica el riesgo de caries y estima la probabilidad del desarrollo de caries. El diseño apropiado para validarlo es:__________________
@@ -21,7 +37,13 @@ output:
  - Usted realiza un estudio sobre prevalencia de caries en primeros molares en niños de 12 años, para ello pretende visitar todos los colegios de su comuna escogiendo a los alumnos número 5, 10 y 15 de la lista de curso de cada 7mo básico de los establecimientos visitados. Indique el el método de aleatorización.
 
  - En un estudio aparece la siguiente frase: “el tamaño muestral es de 354 con una potencia estadística del 80%”. Explíque a que se refiere
+ - En un estudio (J Dent Res. 2010 Oct;89(10):1086-90.)  se comparó la efectividad de 3 métodos de prevención de caries en pacientes adultos mayores institucionalizados y se obtuvieron los resultdos de la siguiente imagen. Al respecto indique
+   -  Qué test estadístico sería el más apropiado de utilizar para analizar estos datos? 
+   - Con los datos de la tabla, ¿cuál o cuáles son los métodos más efectivos para la reducción de caries o nuevas restauraciones al año 3?
+ ![Análisis.](./images/analisis1.png)
+
 # Estudios observacionales de prevalencia
+
 
 ## Análisis
  - Se realiza un estudio que mide la prevalencia de caries en COP(D)en adultos de tres estratos socioeconómicos  (ABC1, C2 y D), con 300 mediciones para A y B y 450 para C. La prueba estadística más indicada para el análisis de los datos sería ________________________________
