@@ -1,3 +1,12 @@
+# Material Docente
+
+Dr Sergio Uribe, Profesor Asociado
+
+Asignaturas
+
+1. ODON210 Imagenología Oral
+1. ODON212 Imagenología Maxilofacial
+1. ODON249 Métodos de Investigación 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sergiouribe/material-docente/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
