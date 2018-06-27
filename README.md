@@ -9,6 +9,6 @@ Dr Sergio Uribe, Profesor Asociado
 1. ODON249 Métodos de Investigación 
 
 ## Guías de estudio
-[Guia Estudio ODON249 Métodos de Investigación](/guia-estudio-odon249.Rmd)
+[Guia Estudio ODON249 Métodos de Investigación](/guia-estudio-odon249.nb.html)
 
   
