@@ -1,0 +1,722 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language spanish-mexico
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language french
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Ejercicios Métodos de Investigación ODON249
+\end_layout
+
+\begin_layout Author
+Dr Sergio Uribe, Prof Asociado.
+ sergiouribe@uach.cl
+\end_layout
+
+\begin_layout Section
+Introducción a los métodos de investigación 
+\end_layout
+
+\begin_layout Itemize
+Es considerado el padre del método científico.
+ Esta frase se refiere a _______ 
+\end_layout
+
+\begin_layout Itemize
+Indique las tres características de una buena teoría científica 
+\end_layout
+
+\begin_layout Itemize
+La característica principal del conocimiento científico es que es _______
+ 
+\end_layout
+
+\begin_layout Itemize
+El aporte de Ronald A.
+ Fisher a la investigación biomédica consistió en _______
+\end_layout
+
+\begin_layout Subsection
+Ética 
+\end_layout
+
+\begin_layout Itemize
+- Explique los cuatro principios éticos básicos 
+\end_layout
+
+\begin_layout Itemize
+- El procedimiento formal para asegurar el cumplimiento del principio de
+ autonomía es _______
+\end_layout
+
+\begin_layout Itemize
+- Si los resultados del estudio pudieran estar influidos por motivaciones
+ financieras del investigador, estamos hablando de _______
+\end_layout
+
+\begin_layout Itemize
+- Indique si las siguientes preguntas son preguntas éticas a.
+ Debemos realizar un estudio en pueblos originarios para aplicarlo en personas
+ caucásicas? 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Existen diferencias en respuesta al medicamento X entre la raza caucásica
+ y etiópea? 
+\end_layout
+
+\begin_layout Itemize
+Existe menor prevalencia de periodontitis en personas orientales que occidentale
+s? 
+\end_layout
+
+\begin_layout Itemize
+Cuáles son las diferencias éticas entre realizar una investigación en Bolivia
+ y en Chile? 
+\end_layout
+
+\begin_layout Itemize
+Cuál debe ser el precio de un nuevo medicamento?
+\end_layout
+
+\begin_layout Itemize
+Debemos investigar un nuevo procedimiento diagnóstico para una enfermedad
+ que no tiene cura?
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Búsqueda de información 
+\end_layout
+
+\begin_layout Itemize
+- Cuál de las siguientes búsquedas genera más ítems o resultados? 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+a) Periodontal AND caries AND systemic diseases 
+\end_layout
+
+\begin_layout Enumerate
+b) (Periodontal OR caries) AND systemic diseases 
+\end_layout
+
+\begin_layout Enumerate
+c) (Periodontal NOT caries) AND systemic diseases 
+\end_layout
+
+\begin_layout Enumerate
+d) (Periodontal OR caries OR systemic diseases) 
+\end_layout
+
+\begin_layout Enumerate
+e) (Periodontal OR caries NOT systemic diseases) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Identifique las partes cada parte numeradas de figura 
+\backslash
+ref{referencias} y describa que significa el 5 y 6 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/referencias1.png
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Referencias
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Dentro de un artículo científico, la sección donde Ud.
+ puede encontrar **ideas** para realizar una investigación, es ______________
+ 
+\end_layout
+
+\begin_layout Itemize
+Las secciones esenciales de un manuscrito científico son ______________,
+ ____________, _________ y _______________ 
+\end_layout
+
+\begin_layout Itemize
+Al ingresar el siguiente texto en PubMed: 
+\emph on
+Agressive Periodontitis/drug therapy[Mesh] AND (amoxicilin AND metronidazole)
+ AND (blind* AND random*)
+\emph default
+ encontrará estudios principalmente de tipo: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+descriptivos 
+\end_layout
+
+\begin_layout Itemize
+cohortes 
+\end_layout
+
+\begin_layout Itemize
+casos y controles 
+\end_layout
+
+\begin_layout Itemize
+cuasiexperimentales 
+\end_layout
+
+\begin_layout Itemize
+clínicos aleatorios
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Diseño de estudios
+\end_layout
+
+\begin_layout Itemize
+El tipo de investigación más cercano a establecer causalidad en humanos
+ es _____________ 
+\end_layout
+
+\begin_layout Itemize
+Acerca de las enfermedades, el *Principio Epidemiológico* señala que (verdadero
+ o falso): 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Las enfermedades se distribuyen al azar.
+ 
+\end_layout
+
+\begin_layout Itemize
+Las enfermedades no se distribuyen aleatoriamente.
+ 
+\end_layout
+
+\begin_layout Itemize
+Siempre es necesario realizar un estudio epidemiológico.
+ 
+\end_layout
+
+\begin_layout Itemize
+La población enferma siempre buscará un tratamiento.
+ 
+\end_layout
+
+\begin_layout Itemize
+Las causas de las enfermedades son géneticas
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Ud desea validar el Cariograma, un test que indica el riesgo de caries y
+ estima la probabilidad del desarrollo de caries.
+ El diseño apropiado para validarlo es:_____________ 
+\end_layout
+
+\begin_layout Itemize
+De acuerdo al siguiente material y método: *Methods: MEDLINE, EMBASE and
+ the Cochrane Library were searched through December 2009 to identify relevant
+ randomised trials with blind outcome assessment and a minimum duration
+ of 1 year.
+ The search was later updated in MEDLINE and the Cochrane Library to March
+ 19th, 2010.
+ Risk of bias of the included trials was assessed.
+ The primary outcome was the caries increment.* La pauta apropiada para analizar
+ este estudio es _____________ - 
+\end_layout
+
+\begin_layout Itemize
+Identifique a qué tipo de estudio corresponde el siguiente abstract (Pediatr
+ Dent.
+ 2010;32(2):134-40.) PURPOSE: The aim of the present investigation was to
+ compare the prevalence of taurodontism in the permanent mandibular first
+ molars of nonsyndromic children with hypodontia and supernumerary teeth
+ with age- and gender-matched controls.
+ METHODS: The crown-body root ratios of the permanent first molars were
+ determined from orthopantomograms of 83 children with hypodontia (> or
+ =1 missing teeth) and 37 children with supernumerary teeth (> or =1 extra
+ teeth) compared with normal case controls.
+ - 
+\end_layout
+
+\begin_layout Itemize
+Identifique a qué tipo de estudio corresponde el siguiente fragmento: “The
+ objective of this study was to assess whether there is a bi-directional
+ relationship between periodontal status and diabetes.
+ This study included 5,856 people without periodontal pockets of ≥ 4 mm
+ at baseline.
+ Relative risk was estimated for the 5-year incidence of periodontal pockets
+ of ≥ 4 mm (CPI scores 3 and 4, with the CPI probe), in individuals with
+ glycated hemoglobin (HbA1c) levels of ≥ 6.5% at baseline”* 
+\end_layout
+
+\begin_layout Subsection
+Muestreo 
+\end_layout
+
+\begin_layout Itemize
+Usted realiza un estudio sobre prevalencia de caries en primeros molares
+ en niños de 12 años, para ello pretende visitar todos los colegios de su
+ comuna escogiendo a los alumnos número 5, 10 y 15 de la lista de curso
+ de cada 7mo básico de los establecimientos visitados.
+ Indique el el método de aleatorización.
+ 
+\end_layout
+
+\begin_layout Itemize
+Identifique el método de selección de la muestra utilizado en el siguiente
+ estudio: AIM: The objective of this study was to estimate the caries impact
+ of providing training in infant feeding guidelines to workers at Brazilian
+ public primary care clinics.
+ In a cluster-randomized controlled trial (n = 20 clinics), health care
+ workers either were trained in guidelines for infant nutrition, stressing
+ healthful complementary feeding, or were assigned to a 'usual practices'
+ control, which allowed for maternal counseling at practitioner discretion.
+ Training occurred once; the amount of counseling provided to mothers was
+ not assessed.
+ Eligible pregnant women were enrolled to follow health outcomes in their
+ children.
+ Early childhood caries (ECC) was measured at age three years (n = 458 children).
+\end_layout
+
+\begin_layout Itemize
+En un estudio aparece la siguiente frase: “el tamaño muestral es de 354
+ con una potencia estadística del 80%”.
+ Explíque a que se refiere - En un estudio (J Dent Res.
+ 2010 Oct;89(10):1086-90.) se comparó la efectividad de 3 métodos de prevención
+ de caries en pacientes adultos mayores institucionalizados y se obtuvieron
+ los resultdos de la siguiente imagen.
+ ![Análisis.](./images/analisis1.png) 
+\end_layout
+
+\begin_layout Itemize
+Al respecto indique - Qué test estadístico sería el más apropiado de utilizar
+ para analizar estos datos? - Con los datos de la tabla, ¿cuál o cuáles
+ son los métodos más efectivos para la reducción de caries o nuevas restauracion
+es al año 3?
+\end_layout
+
+\begin_layout Subsection
+Análisis 
+\end_layout
+
+\begin_layout Itemize
+Se realiza un estudio que mide la severidad de caries en COP(D) en adultos
+ de tres estratos socioeconómicos (ABC1, C2 y D), con 300 mediciones para
+ ABC1 y B y 450 para C.
+ La prueba estadística más indicada para el análisis de los datos es ___________
+_
+\end_layout
+
+\begin_layout Itemize
+El mismo estudio ahora compara la proporción de adultos libres de caries
+ (COP(D) = 0) vs con caries (COP(D) > 0).
+ La prueba estadística más indicada para el análisis de los datos es _________
+\end_layout
+
+\begin_layout Itemize
+Cuál es la diferencia entre significancia clínica y significacia estadística?
+ 
+\end_layout
+
+\begin_layout Section
+Estudios observacionales de prevalencia 
+\end_layout
+
+\begin_layout Subsection
+Aspectos claves de los estudios de prevalencia
+\end_layout
+
+\begin_layout Itemize
+**Incidencia** $$Tasa 
+\backslash
+;de 
+\backslash
+;Incidencia = 
+\backslash
+frac{N
+\backslash
+acute{u}mero 
+\backslash
+; de 
+\backslash
+; casos
+\backslash
+; 
+\backslash
+boldsymbol{nuevos}
+\backslash
+;durante
+\backslash
+; un 
+\backslash
+; per
+\backslash
+acute{i}odo
+\backslash
+;de
+\backslash
+;tiempo}{Poblaci
+\backslash
+acute{o}n
+\backslash
+;en
+\backslash
+;riesgo
+\backslash
+;a
+\backslash
+;la
+\backslash
+;mitad
+\backslash
+;del
+\backslash
+;tiempo}$$ **Prevalencia** $$Prevalencia 
+\backslash
+;puntual = 
+\backslash
+frac{N
+\backslash
+acute{u}mero 
+\backslash
+; de 
+\backslash
+; casos
+\backslash
+; durante
+\backslash
+; un 
+\backslash
+; momento
+\backslash
+;espec
+\backslash
+acute{i}fico
+\backslash
+;de
+\backslash
+;tiempo}{Poblaci
+\backslash
+acute{o}n
+\backslash
+;en
+\backslash
+;riesgo
+\backslash
+;a
+\backslash
+;la
+\backslash
+;mitad
+\backslash
+;del
+\backslash
+;tiempo}$$ $$Prevalencia 
+\backslash
+;del
+\backslash
+;per
+\backslash
+acute{i}odo = 
+\backslash
+frac{N
+\backslash
+acute{u}mero 
+\backslash
+; de 
+\backslash
+; casos
+\backslash
+; durante
+\backslash
+; un 
+\backslash
+; momento
+\backslash
+;de
+\backslash
+;tiempo}{Poblaci
+\backslash
+acute{o}n
+\backslash
+;en
+\backslash
+;riesgo
+\backslash
+;a
+\backslash
+;la
+\backslash
+;mitad
+\backslash
+;del
+\backslash
+;tiempo}$$ $$Prevalencia = {Incidencia}
+\backslash
+; x
+\backslash
+;{Duraci
+\backslash
+acute{o}n}$$ $$Personas-año = {N
+\backslash
+; de
+\backslash
+; personas}
+\backslash
+; x
+\backslash
+;{Duraci
+\backslash
+acute{o}n
+\backslash
+;en
+\backslash
+;años}$$
+\end_layout
+
+\begin_layout Itemize
+Usted desea realizar un estudio de prevalencia de estomatitis aftosa recidivante
+ en niños de 6 años en Valdivia, realizando un examen bucal.
+ El mejor lugar para la obtención de la muestra es _________________ - La
+ incidencia de un tipo de carcinoma oral en Valdivia es tres veces más alta
+ en hombres que en mujeres, pero la prevalencia es casi la misma para ambos
+ sexos.
+ Explique esta situación.
+ 
+\end_layout
+
+\begin_layout Section
+Estudios observacionales analíticos
+\end_layout
+
+\begin_layout Itemize
+Indique y explique los criterios de causalidad de Hill
+\end_layout
+
+\begin_layout Section
+Estudios clínicos controlados
+\end_layout
+
+\begin_layout Itemize
+El propósito del doble cegamiento o enmascaramiento en un estudio clínico
+ tiene como propósito ___________________
+\end_layout
+
+\begin_layout Section
+Revisiones sistemáticas - 
+\end_layout
+
+\begin_layout Itemize
+Interprete los resultados del siguiente gráfico 
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/meta1.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+- Interprete los resultados del siguiente gráfico 
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/meta3.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Indique a qué corresponden los números de la siguiente figura 
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename images/meta2.png
+	width 100cm
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
