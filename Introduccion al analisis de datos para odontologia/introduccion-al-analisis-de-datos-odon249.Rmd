@@ -27,6 +27,32 @@ if (!require("gapminder")) install.packages("gapminder") #instala paquetes en ca
 
 # Análisis exploratorio de datos
 ## Limpieza de datos
+
+## Reformatear datos
+
+```{r, warning=FALSE}
+library(tidyverse)
+messydata <- tibble(id = c("ciudad 1", "ciudad 2", "ciudad 3"),
+                    centro = c(4, 2, 5),
+                    periferia = c(8, 6, 9))
+```
+```{r}
+messydata
+```
+
+
+
+```{r}
+messydata %>% 
+  gather(key = "Ubicación", value = "COPD", centro:periferia) %>% 
+  ggplot(aes(x = Ubicación, y = COPD)) + 
+  geom_boxplot() + 
+  labs(title = "Severidad de caries", x = "Ubicación", y = "COPD") + 
+  theme_minimal()
+```
+
+
+
 ## Resumir datos: Gráficos
 ## Resumir datos: Tablas
 
