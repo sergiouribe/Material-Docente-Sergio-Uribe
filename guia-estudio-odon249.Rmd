@@ -144,3 +144,123 @@ $$Personas-año = {N\; de\; personas}\; x\;{Duraci\acute{o}n\;en\;años}$$
  - Indique a qué corresponden los números de la siguiente figura
 
 ![Meta-analisis.](./images/meta2.png)
+
+## Indique a qué tipo de estudio pueden corresponder los siguientes abstract
+
+
+ This study aimed to describe a rare presentation of a Warthin tumor and discuss its etiology and differential diagnosis
+
+
+    a. Reporte de Caso
+    b. Serie de caso
+    c. Descriptivo / Prevalencia 
+    d. Analítico longitudinal de cohorte prospectivo / Cohorte / incidencia
+    e. Analítico longitudinal de cohorte retrospectivo o histórico / Casos y controles
+    f. Analítico Transversal / Cohorte transversal
+    g. Experimental in vitro
+    h. Experimental en animales 
+    i. ECA (estudio clínico aleatorio)
+    j. Revisión sistemática 
+
+ The aim of this study was to evaluate tooth and periodontal damage in subjects wearing a tongue piercing (TP) in comparison to matched control subjects without tongue piercing. Members of the German Federal Armed Forces who had TP (group TP) and a matched control group (group C) volunteered to take part in the study
+        a. Reporte de Caso
+        b. Serie de caso
+        c. Descriptivo / Prevalencia 
+        d. Analítico longitudinal de cohorte prospectivo / Cohorte / incidencia
+        e. Analítico longitudinal de cohorte retrospectivo o histórico / Casos y controles
+        f. Analítico Transversal / Cohorte transversal
+        g. Experimental in vitro
+        h. Experimental en animales 
+        i. ECA (estudio clínico aleatorio)
+        j. Revisión sistemática 
+
+In the present study, cases of ameloblastomas and dentigerous cysts derived from the records of all the hospital pathology departments and private pathology practices on the Witwatersrand, were recorded for the 10-year period 1965--1974. The population at risk (1970 census) was 974,390 Whites and 1,567,280 Blacks. The annual incidence rates, standardized against the standard world population, for ameloblastomas per million population are 1.96, 1.20, 0.18 and 0.44 for Black males, females and White males, females, respectively
+        a. Reporte de Caso
+        b. Serie de caso
+        c. Descriptivo / Prevalencia 
+        d. Analítico longitudinal de cohorte prospectivo / Cohorte / incidencia
+        e. Analítico longitudinal de cohorte retrospectivo o histórico / Casos y controles
+        f. Analítico Transversal / Cohorte transversal
+        g. Experimental in vitro
+        h. Experimental en animales 
+        i. ECA (estudio clínico aleatorio)
+        j. Revisión sistemática 
+
+
+
+
+METHODS: A school-based study consisting of 251 children aged 2-10 years old attending three primary schools in Lagos State, Nigeria. Baseline and exit dental examinations were conducted. Study exit examination was conducted 3 years after the baseline. The deft and DMFT index was used to assess caries severity. The key outcome measure recorded in the study was the development of new cavities in any of the previously caries-free teeth. The presence or absence of caries was represented by the change in deft and or DMFT status.
+STATISTICS: In the analyses, the incidence of new cavities was recorded at both the subject and tooth levels. Incidence rates for the development of new caries were calculated for all children who: were caries-free at recruitment had caries at recruitment were caries-free at recruitment but developed caries during follow up. Relative risk (RR) analysis was also computed for caries-risk estimation.
+        a. Reporte de Caso
+        b. Serie de caso
+        c. Descriptivo / Prevalencia 
+        d. Analítico longitudinal de cohorte prospectivo / Cohorte / incidencia
+        e. Analítico longitudinal de cohorte retrospectivo o histórico / Casos y controles
+        f. Analítico Transversal / Cohorte transversal
+        g. Experimental in vitro
+        h. Experimental en animales 
+        i. ECA (estudio clínico aleatorio)
+        j. Revisión sistemática 
+
+The present study was performed in an attempt to assess the anesthetic efficacy of an intraoral mucoadhesive tablet of amitriptyline. The mucoadhesive tablet was randomly placed for 15 minutes on the buccal mucogingival tissue adjacent to the root of the upper lateral incisor, and a placebo was placed on the other side. A 27-gauge needle was inserted to touch the alveolar periosteum of the designated site. The pain intensity associated with the stimulation was evaluated every 5 minutes after removing the mucoadhesive tablet using a visual analog pain scale and pain rating scoring methods.
+        a. Reporte de Caso
+        b. Serie de caso
+        c. Descriptivo / Prevalencia 
+        d. Analítico longitudinal de cohorte prospectivo / Cohorte / incidencia
+        e. Analítico longitudinal de cohorte retrospectivo o histórico / Casos y controles
+        f. Analítico Transversal / Cohorte transversal
+        g. Experimental in vitro
+        h. Experimental en animales 
+        i. ECA (estudio clínico aleatorio)
+        j. Revisión sistemática 
+
+The purpose of this study was to directly compare the incidence and magnitude of bacteremia of a 0.12% chlorhexidine pre-procedure rinse to the AHA and the ADA/AAOS recommended 2 g amoxicillin antibiotic prophylaxis during third molar extractions.
+        a. Reporte de Caso
+        b. Serie de caso
+        c. Descriptivo / Prevalencia 
+        d. Analítico longitudinal de cohorte prospectivo / Cohorte / incidencia
+        e. Analítico longitudinal de cohorte retrospectivo o histórico / Casos y controles
+        f. Analítico Transversal / Cohorte transversal
+        g. Experimental in vitro
+        h. Experimental en animales 
+        i. ECA (estudio clínico aleatorio)
+        j. Revisión sistemática 
+
+
+To determine the effect of antibiotic prophylaxis on the development of infectious complications following tooth extractions the following electronic databases were searched: the Cochrane Oral Health Group's Trials Register (to 25 January 2012), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 1), MEDLINE via OVID (1948 to 25 January 2012), EMBASE via OVID (1980 to 25 January 2012) and LILACS via BIREME (1982 to 25 January 2012). There were no restrictions regarding language or date of publication.
+        a. Reporte de Caso
+        b. Serie de caso
+        c. Descriptivo / Prevalencia 
+        d. Analítico longitudinal de cohorte prospectivo / Cohorte / incidencia
+        e. Analítico longitudinal de cohorte retrospectivo o histórico / Casos y controles
+        f. Analítico Transversal / Cohorte transversal
+        g. Experimental in vitro
+        h. Experimental en animales 
+        i. ECA (estudio clínico aleatorio)
+        j. Revisión sistemática 
+
+ MATERIAL AND METHODS: The presence of gingival recession was scored (Yes or No) on plaster models of 100 orthodontic patients (cases) and 120 controls at the age of 12 (T12 ), 15 (T15 ), 18 (T18 ), and 21 (T21 ) years. In the treated group, T12 reflected the start of orthodontic treatment and T15 - the end of active treatment and the start of retention phase with bonded retainers. Independent t-tests, Fisher's exact tests and a fitted two-part "hurdle" model were used to identify the effect of orthodontic treatment/retention on recessions.
+RESULTS: The proportion of subjects with recessions was consistently higher in cases than controls. Overall, the odds ratio for orthodontic patients as compared with controls to have recessions is 4.48 (p < 0.001; 95% CI: 2.61-7.70).
+        a. Reporte de Caso
+        b. Serie de caso
+        c. Descriptivo / Prevalencia 
+        d. Analítico longitudinal de cohorte prospectivo / Cohorte / incidencia
+        e. Analítico longitudinal de cohorte retrospectivo o histórico / Casos y controles
+        f. Analítico Transversal / Cohorte transversal
+        g. Experimental in vitro
+        h. Experimental en animales 
+        i. ECA (estudio clínico aleatorio)
+        j. Revisión sistemática 
+
+
+One hundred and eighty Cariogram files were completed from patients aged ten to fifty-six years (mean: 23.28 years). Seven factors from the software were included from patient records to complete the Cariogram: caries experience, diet (content and frequency), stimulated salivary flow, hygiene index, related diseases and fluoride usage. The percentages of "chances of avoiding new lesions" (caries risk) were obtained from Cariogram, and the subjects were classified into five risk groups. Results were compared for each variable with ANOVA, and a correlation between caries and Cariogram variables was calculated by Pearson's correlation coefficient. A multivariate regression model was also used.
+        a. Reporte de Caso
+        b. Serie de caso
+        c. Descriptivo / Prevalencia 
+        d. Analítico longitudinal de cohorte prospectivo / Cohorte / incidencia
+        e. Analítico longitudinal de cohorte retrospectivo o histórico / Casos y controles
+        f. Analítico Transversal / Cohorte transversal
+        g. Experimental in vitro
+        h. Experimental en animales 
+        i. ECA (estudio clínico aleatorio)
+        j. Revisión sistemática 
